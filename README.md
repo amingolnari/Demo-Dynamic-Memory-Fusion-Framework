@@ -43,4 +43,4 @@ This framework is based on deep learning and addresses the inefficiencies of man
 
 ## **Usage of Class Balanced Dice Loss**
 
-The **Class Balanced Dice Loss** function is crucial in medical image segmentation where there is often a significant class imbalance. In this framework, the Dice loss function has been modified to prioritize underrepresented classes, ensuring better accuracy for minority class segmentation (e.g., cancerous regions in ultrasound images).
+The **Class Balanced Dice Loss** function is crucial in image segmentation where there is often a significant class imbalance. In this framework, the Dice loss function has been modified to prioritize underrepresented classes, ensuring better accuracy for minority class segmentation (e.g., cancerous regions in medical images).
