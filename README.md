@@ -14,6 +14,11 @@ a) Faculty of Electrical & Robotics, Shahrood University of Technology, Shahrood
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amingolnari/Demo-Dynamic-Memory-Fusion-Framework/blob/main/DynamicMemoryFusion.ipynb)
 
+**Compatibility:**
+- TensorFlow: 2.17.0
+- Keras: 3.4.1
+- TensorFlow Datasets: 4.9.6
+
 ---
 
 ## **Framework Overview**
