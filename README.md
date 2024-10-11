@@ -59,5 +59,5 @@ If our work is helpful to you, please kindly cite our paper as:
        author={Golnari, Amin and Diba, Mostafa},
        publisher={ResearchGate},
        year={2024},
-       doi={https://doi.org/10.1016/j.eswa.2024.124404}
+       doi={http://dx.doi.org/10.13140/RG.2.2.36329.71528}
     }
