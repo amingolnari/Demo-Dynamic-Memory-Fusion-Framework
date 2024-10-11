@@ -1,8 +1,8 @@
-# [**Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation**](https://www.researchgate.net/publication/384691380_Adaptive_Real-Time_Multi-Loss_Function_Optimization_Using_Dynamic_Memory_Fusion_Framework_A_Case_Study_on_Breast_Cancer_Segmentation)
+# [**Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation**](https://www.researchgate.net/publication/384691380_Adaptive_Real-Time_Multi-Loss_Function_Optimization_Using_Dynamic_Memory_Fusion_Framework_A_Case_Study_on_Breast_Cancer_Segmentation)  
 
 ---
 
-Amin Golnari, Mostafa Diba. **"Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation"** Preprint. []()
+Amin Golnari, Mostafa Diba. **"Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation"** Preprint. [http://dx.doi.org/10.13140/RG.2.2.36329.71528](http://dx.doi.org/10.13140/RG.2.2.36329.71528)
 
 
 **Amin Golnari <sup>a<sup>**, **Mostafa Diba <sup>a<sup>** <br>
@@ -49,3 +49,15 @@ This framework is based on deep learning and addresses the inefficiencies of man
 ## **Usage of CB-Dice Loss**
 
 The **CB-Dice Loss** function is crucial in image segmentation where there is often a significant class imbalance. In this framework, the Dice loss function has been modified to prioritize underrepresented classes, ensuring better accuracy for minority class segmentation (e.g., cancerous regions in medical images).
+
+---
+
+If our work is helpful to you, please kindly cite our paper as:
+
+    @article{GOLNARI2024DMF,
+       title={Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation},
+       author={Golnari, Amin and Diba, Mostafa},
+       publisher={ResearchGate},
+       year={2024},
+       doi={https://doi.org/10.1016/j.eswa.2024.124404}
+    }
