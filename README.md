@@ -1,14 +1,14 @@
-# [**Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation**](https://www.researchgate.net/publication/384691380_Adaptive_Real-Time_Multi-Loss_Function_Optimization_Using_Dynamic_Memory_Fusion_Framework_A_Case_Study_on_Breast_Cancer_Segmentation)  
+# [**Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation**](https://arxiv.org/pdf/2410.19745)  
 
 ---
 
-Amin Golnari, Mostafa Diba. **"Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation"** Preprint. [http://dx.doi.org/10.13140/RG.2.2.36329.71528](http://dx.doi.org/10.13140/RG.2.2.36329.71528)
+Amin Golnari, Mostafa Diba. **"Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation"** Preprint. [https://doi.org/10.48550/arXiv.2410.19745](https://doi.org/10.48550/arXiv.2410.19745)
 
 
 **Amin Golnari <sup>a<sup>**, **Mostafa Diba <sup>a<sup>** <br>
 a) Faculty of Electrical Engineering, Shahrood University of Technology, Shahrood, Iran <br>
 
-**Link to the preprint version on ResearchGate:** [Click here](https://www.researchgate.net/publication/384691380_Adaptive_Real-Time_Multi-Loss_Function_Optimization_Using_Dynamic_Memory_Fusion_Framework_A_Case_Study_on_Breast_Cancer_Segmentation)
+**Link to the preprint version:** [Click here](https://arxiv.org/pdf/2410.19745)
 
 **Or You Can Run this Python Code on Google Colab:**    
 
