@@ -57,7 +57,7 @@ If our work is helpful to you, please kindly cite our paper as:
     @article{GOLNARI2024DMF,
        title={Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation},
        author={Golnari, Amin and Diba, Mostafa},
-       publisher={ResearchGate},
+       journal={arXiv preprint arXiv:2410.19745},
        year={2024},
-       doi={http://dx.doi.org/10.13140/RG.2.2.36329.71528}
+       doi={https://doi.org/10.48550/arXiv.2410.19745}
     }
