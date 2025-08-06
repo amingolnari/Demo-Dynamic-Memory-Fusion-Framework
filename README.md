@@ -1,14 +1,15 @@
-# [**Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation**](https://arxiv.org/pdf/2410.19745)  
+# [**Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation**](https://arxiv.org/pdf/2410.19745v2)  
 
+**Published version:** [https://doi.org/10.1016/j.bspc.2025.108388](https://doi.org/10.1016/j.bspc.2025.108388)
 ---
 
-Amin Golnari, Mostafa Diba. **"Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation"** Preprint. [https://doi.org/10.48550/arXiv.2410.19745](https://doi.org/10.48550/arXiv.2410.19745)
+Amin Golnari, Mostafa Diba. **"Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation"** [https://doi.org/10.1016/j.bspc.2025.108388](https://doi.org/10.1016/j.bspc.2025.108388)
 
 
 **Amin Golnari <sup>a<sup>**, **Mostafa Diba <sup>a<sup>** <br>
 a) Faculty of Electrical Engineering, Shahrood University of Technology, Shahrood, Iran <br>
 
-**Link to the preprint version:** [Click here](https://arxiv.org/pdf/2410.19745)
+**Link to the preprint version:** [Click here](https://arxiv.org/pdf/2410.19745v2)
 
 **Or You Can Run this Python Code on Google Colab:**    
 
@@ -57,7 +58,9 @@ If our work is helpful to you, please kindly cite our paper as:
     @article{GOLNARI2024DMF,
        title={Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation},
        author={Golnari, Amin and Diba, Mostafa},
-       journal={arXiv preprint arXiv:2410.19745},
-       year={2024},
-       doi={https://doi.org/10.48550/arXiv.2410.19745}
+       journal={Biomedical Signal Processing and Control},
+       volume={111},
+       pages={108388},
+       year={2026},
+       doi={https://doi.org/10.1016/j.bspc.2025.108388}
     }
