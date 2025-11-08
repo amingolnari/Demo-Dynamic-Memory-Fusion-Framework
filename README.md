@@ -55,7 +55,8 @@ The **CB-Dice Loss** function is crucial in image segmentation where there is of
 
 If our work is helpful to you, please kindly cite our paper as:
 
-    @article{GOLNARI2024DMF,
+```bibtex
+    @article{golnari2026dmf,
        title={Adaptive Real-Time Multi-Loss Function Optimization Using Dynamic Memory Fusion Framework: A Case Study on Breast Cancer Segmentation},
        author={Golnari, Amin and Diba, Mostafa},
        journal={Biomedical Signal Processing and Control},
@@ -64,3 +65,4 @@ If our work is helpful to you, please kindly cite our paper as:
        year={2026},
        doi={https://doi.org/10.1016/j.bspc.2025.108388}
     }
+```
